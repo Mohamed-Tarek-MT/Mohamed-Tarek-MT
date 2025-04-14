@@ -1,13 +1,13 @@
-# 💻 Mohamed Tarek | Software Engineer & Cybersecurity Enthusiast
+# 💻 Mohamed Tarek | IT Engineer & Cybersecurity Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about building impactful web applications and exploring the world of cybersecurity, particularly in the Blue Team domain.
+Welcome to my GitHub profile! I'm passionate about designing and bulding computer software and networks, developing and troubleshooting computer programs and systems, and exploring the world of cybersecurity, particularly in the Blue Team domain.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & AI Student  
-- 🌐 Full-stack Developer (Django + Vue.js)  
+- 🎓 Computer Science & ITNS Student (Information Technology and Network Security) 
+- 🌐 Full-stack Developer (ASP.NET + Angular)  
 - 🛡️ Cybersecurity Learner | Blue Team | SOC Analyst Aspirant  
 - 📍 Based in Egypt  
 - 💬 Always open to collaborations and learning opportunities
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful web applic
 
 ## 📂 Featured Projects
 
-### 🌐 [Reach App](https://github.com/yourusername/reach-app)
+### 🌐 [Reach App](https://github.com/Mohamed-Tarek-MT/Reach-App)
 > A social media platform similar to Facebook, built using Django + Vue.js.  
 > ✅ User Authentication | Posts & Reactions | Realtime Notifications
 
@@ -57,11 +57,9 @@ Welcome to my GitHub profile! I'm passionate about building impactful web applic
 
 ## 📫 Contact Me
 
-- 📧 Email: youremail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🧠 Personal Blog (optional): [yourblog.com](https://yourblog.com)
+- 📧 Email: mohamedtarek.mtma@gmail.com  
+- 💼 LinkedIn: [linkedin.com/Mohamed-Tarek](https://www.linkedin.com/in/mohamed-tarek-b18751265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMx3r253MR2aBkpEQoWHyUw%3D%3D)  
 
 ---
 
 _“Knowledge grows when shared.”_ 🌱  
-Thanks for stopping by!
