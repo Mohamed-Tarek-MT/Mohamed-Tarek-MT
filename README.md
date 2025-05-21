@@ -1,4 +1,4 @@
-# 💻 Mohamed Tarek | IT Engineer & Cybersecurity Enthusiast
+# 💻 Mohamed Tarek | IT Student & Cybersecurity Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about designing and bulding computer software and networks, developing and troubleshooting computer programs and systems, and exploring the world of cybersecurity, particularly in the Blue Team domain.
 
