@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm passionate about designing and bulding compute
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & ITNS Student (Information Technology and Network Security) 
-- 🌐 Full-stack Developer (ASP.NET + Angular)  
+- 🎓 Computer Science & ITNS Student (Information Technology and Network Security)   
 - 🛡️ Cybersecurity Learner | Blue Team | SOC Analyst Aspirant  
 - 📍 Based in Egypt  
 - 💬 Always open to collaborations and learning opportunities
